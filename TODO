@@ -1,0 +1,9 @@
+TODO 1.) Input stream over multiple bytebuffer.
+TODO 2.) ChannelHandlerContext.executor() causes responses to truncate.
+TODO 3.) Provide point to configure pipeline as OSGi service.
+TODO 4.) Use Java 8
+TODO 5.) Make this an OSGi bundle.
+
+Complete
+1.) Decode only headers and retrieve content as bytebuffer.
+2.) Update CarbonMessage to contain bytebuffer.
